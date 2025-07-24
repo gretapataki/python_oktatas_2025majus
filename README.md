@@ -1,2 +1,2 @@
 # python_oktatas_2025majus
-Python course
+Python course 2025
